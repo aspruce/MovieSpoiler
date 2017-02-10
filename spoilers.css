@@ -1,0 +1,10 @@
+body { color:green; background-color:black; font-style: Times New Roman;}
+#spoil-protect
+{
+  color:black;
+  background-color:black;
+}
+#spoil-protect:hover, #spoil-protect:active
+{
+  color:green;
+}
